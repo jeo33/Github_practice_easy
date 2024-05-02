@@ -57,6 +57,12 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "unordered_set": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "algorithm": "cpp",
+        "list": "cpp",
+        "optional": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "xtree": "cpp"
     }
 }
